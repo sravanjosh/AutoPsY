@@ -1,0 +1,29 @@
+{
+  "tbname": "local-tb",
+  "emailid": "joshi.sravan@gmail.com",
+
+  "host": [
+    {
+      "name": "host1",
+      "ip": "192.168.1.2",
+      "alias": "host1",
+      "username": "username",
+      "password": "passwd"
+    },
+    {
+      "name": "host2",
+      "ip": "192.168.2.2",
+      "alias": "host2",
+      "username": "username",
+      "password": "passwd",
+      "ssh_port": 5001
+    },
+    {
+      "name": "host3",
+      "ip": "192.168.3.2",
+      "alias": "host3",
+      "username": "username",
+      "key": "~/keys/google_compute_engine"
+    }
+  ]
+}

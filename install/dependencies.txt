@@ -1,0 +1,13 @@
+# Use "sudo pip install -r <this file>" to install all dependencies for TestAutomation
+nose
+termcolor
+coloredlogs
+cassandra-driver
+pycurl
+enum
+pymongo
+# Needs python-dev to be installed in machine. use apt-get install python-dev
+pycrypto
+cryptography
+paramiko
+expiringdict
